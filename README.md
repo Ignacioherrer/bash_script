@@ -1,5 +1,5 @@
 Bash Scripts
-17 Bash script exercises done to improve my script skills. Below is presented a brief description of each script: 
+17 Bash script exercises done to improve my script skills. Below is presented a brief description of each script:  
 
 sequence.sh -> Write a shell script to display number 1 to 5.
 compare_input.sh -> Write a shell script to compare two arguments from users’ input.
